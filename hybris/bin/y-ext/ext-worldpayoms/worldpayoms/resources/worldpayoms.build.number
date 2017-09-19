@@ -1,0 +1,9 @@
+#Ant properties
+#Mon Sep 18 20:01:35 BST 2017
+builddate=20170918 2001
+description=worldpayoms
+name=worldpayoms
+releasedate=20170808 1424
+vendor=hybris
+version=6.4.0.3
+version.api=6.4.0
